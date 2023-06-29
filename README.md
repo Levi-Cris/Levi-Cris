@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1>Olá, me chamo Levi. <br/> <a>Desenvolvedor Python/SQL</a>
+<b>
+  - Freelancer. 👨‍💻🎲</b>
+</h1>
+<h2>📋 Certificações:</h2>
 
-<!--
-**Levi-Cris/Levi-Cris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <c> 
+   
+-   
+-
+-
+-
+-
 
-Here are some ideas to get you started:
+</c>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>👨‍💻 Projetos:</h2>
+
+- <a href="https://github.com/Levi-Cris/relatorio-contabil">Automação de relatório contábil. </a>
+- <a href="https://github.com/Levi-Cris/relatorio-contabil">Análise de clientes cancelados. </a>
+- <a href="https://github.com/Levi-Cris/relatorio-contabil">Absorvendo API para listar conteúdo. </a>
+
+<h2> 🤳 Contatos:</h2>
+
+[<img align="left" alt="levi-cris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/levi-cris/
